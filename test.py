@@ -57,7 +57,7 @@ class LiuYunKuAutomator:
             for radio in radio_buttons:
                 try:
                     text = radio.window_text()
-                    if "在线素材" in text:
+                    if "在线" in text:
                         print(f"找到在线素材: {text}")
                         radio.click_input()
                         print("点击成功!")
@@ -98,7 +98,7 @@ def connect_with_playwright_correct():
     """正确的CDP连接方法"""
 
     with sync_playwright() as p:
-        # 方法1: 连接到本地运行的Chrome浏览器（需要先启动带调试端口的Chrome）
+        # 连接到本地运行的Chrome浏览器（需要先启动带调试端口的Chrome）
         try:
             # 首先确保Chrome以调试模式启动：
             # chrome.exe --remote-debugging-port=9222

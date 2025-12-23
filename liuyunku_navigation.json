@@ -1,0 +1,184 @@
+{
+  "timestamp": "2025-12-23 15:50:37",
+  "main_navigation": [
+    {
+      "text": "3D模型",
+      "data_id": "model",
+      "data_type": "1",
+      "is_active": true,
+      "categories": [
+        {
+          "title": "大类：",
+          "first_level": [
+            {
+              "text": "全部",
+              "is_active": true,
+              "has_close_btn": false
+            },
+            {
+              "text": "沙发",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "椅凳",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "柜类",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "桌台",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "桌几",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "床具",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "灯具",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "电器",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "器材设备",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "软装陈设",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "厨卫用品",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "材料构件",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "交通工具",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "人物动物",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "家装",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "办公空间",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "酒店空间",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "商业空间",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "餐饮门店",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "文体空间",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "娱乐空间",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "公共空间",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "全景图",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "活动美陈",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "景观",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "植物",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "展会设计",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "广告导视",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "展厅",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "教育空间",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "医院诊所",
+              "is_active": false,
+              "has_close_btn": true
+            },
+            {
+              "text": "建筑及户外",
+              "is_active": false,
+              "has_close_btn": true
+            }
+          ],
+          "second_level": []
+        }
+      ]
+    }
+  ]
+}
